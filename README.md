@@ -1,2 +1,152 @@
-# Data-Analytics
-To track daily progress of Data Analytics course and learnings
+# 📊 My Data Analytics Journey
+> *Documenting my path to becoming a Data Analyst with the Ultimate Job-Ready AI-Powered Course.*
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Python%20%7C%20SQL%20%7C%20Excel-blue?style=for-the-badge)
+
+## 🎯 Goal
+To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfolio of automation and analysis tools.
+
+## 🚧 Current Progress
+**Overall Completion:**
+▓▓░░░░░░░░ 20%
+
+| Component | Status |
+| :--- | :--- |
+| **Excel** | 🔄 In Progress |
+| **Python** | ⏳ Waiting |
+| **SQL** | ⏳ Waiting |
+
+---
+
+## 📅 Daily Log
+*I update this section daily to track what I learned.*
+
+| Date | Topic Covered | Key Takeaway / Notes |
+| :--- | :--- | :--- |
+| Jan 23 | Intro to Analytics | Learned the workflow: Collect -> Clean -> Analyze -> Interpret. |
+| Jan 24 | Excel Basics | Started the 'Profitable Car Showroom' mini project. |
+| ... | ... | ... |
+
+---
+
+<!---## 🛠️ Projects & Portfolio
+*Practical implementations from the course.*
+
+| Project Name | Tech Stack | Status | Link |
+| :--- | :--- | :--- | :--- |
+| 🏎️ **Profitable Car Showroom** | Excel | 🔴 Todo | [Link](#) |
+| 💰 **Expense Tracker** | Excel | 🔴 Todo | [Link](#) |
+| 🎮 **Snake, Water, Gun** | Python | 🔴 Todo | [Link](#) |
+| 📂 **File Organizer** | Python (Automation) | 🔴 Todo | [Link](#) |
+| ⌨️ **Typing Speed Tester** | Python | 🔴 Todo | [Link](#) |
+| 🧩 **PDF Merger GUI** | Python (Tkinter) | 🔴 Todo | [Link](#) |
+| 💧 **Water Reminder** | Python (Notifications) | 🔴 Todo | [Link](#) |
+| 🔐 **Password Manager** | Python (Security) | 🔴 Todo | [Link](#) |
+
+---
+--->
+
+## 📚 Course Syllabus Checklist
+<details>
+<summary>Click to expand full syllabus</summary>
+
+### 🟢 Section 1: Introduction to Data Analytics
+- [x] Introduction to Data Analytics & Course Overview
+- [ ] What Is Data Analytics?
+- [ ] What Data Analysts typically do
+- [ ] The Data Analytics Workflow
+- [ ] Tools used by a Data Analyst
+- [ ] Mini Project: The Profitable Car Showroom
+
+### 📗 Section 2: Excel Mastery
+- [ ] Introduction to Excel
+- [ ] Excel - Visual Walkthrough
+- [ ] Workbooks and Sheets
+- [ ] Saving and Opening Workbooks
+- [ ] Adding Data With Headers in Excel
+- [ ] Alignment, colors and font in Excel
+- [ ] Performing Calculations in Excel
+- [ ] Understanding Excel Cell Formats
+- [ ] Absolute References in Excel
+- [ ] Order of Operations in Excel
+- [ ] Functions in Excel
+- [ ] Commonly Used Excel Functions
+- [ ] **Mini Project - Build an Expense Tracker**
+- [ ] Modifying an Excel Worksheet
+- [ ] Formatting data in an Excel Worksheet
+- [ ] Conditional Formatting in Excel
+- [ ] Sorting and Filtering Data in Excel
+- [ ] Generating Random Data in Excel
+- [ ] Images and Shapes in Excel
+- [ ] Charts in Excel
+- [ ] Print Preview and Printing in Excel
+- [ ] Creating & Using Templates in Excel
+- [ ] Referencing Data Across Worksheets in Excel
+
+### 🐍 Section 3: AI-Powered Python
+- [ ] Introduction to AI Powered Python
+- [ ] Installing Python & VS Code
+- [ ] Installing Python Packages using Pip
+- [ ] Built-in vs External Packages in Python
+- [ ] Variables and Data Types in Python
+- [ ] Comments and Type Conversion in Python
+- [ ] Taking User Input in Python
+- [ ] Operators in Python
+- [ ] Strings & String Methods in Python
+- [ ] f-Strings in Python
+- [ ] List & List Methods in Python
+- [ ] Tuple & Tuple Methods in Python
+- [ ] Sets in Python
+- [ ] Dictionaries in Python
+- [ ] Conditional Statements in Python
+- [ ] Loops in Python
+- [ ] Functions in Python
+- [ ] Local vs Global Variables in Python
+- [ ] File Handling in Python
+- [ ] Error Handling in Python
+- [ ] **Mini Project 1: Lets build Snake, Water & Gun**
+
+### 🤖 Section 4: AI Assisted Development
+- [ ] AI Assisted Software Development - Introduction
+- [ ] ChatGPT Setup and Tips
+- [ ] Installing & Using GitHub Copilot
+- [ ] **Mini Project 2: File Organizer in Python**
+- [ ] **Mini Project 3: Typing Speed Tester**
+- [ ] **Mini Project 4: Quiz App in Python**
+- [ ] **Mini Project 5: PDF Merger GUI in Python**
+- [ ] **Mini Project 6: Water Drinking Reminder with Notifications**
+- [ ] **Mini Project 7: Build a Password Manager Using Python**
+
+### 🗄️ Section 5: Databases & SQL
+- [ ] Introduction to Databases & SQL
+- [ ] Relational vs Non Relational Databases
+- [ ] Installing MySQL
+- [ ] Writing Our First SQL Query
+- [ ] MySQL Starter Script
+- [ ] DataTypes & Creating a Table in MySQL
+- [ ] Inserting Rows in a Table
+- [ ] Selecting Data from the orders Table
+- [ ] Updating & Deleting Data in a Table
+- [ ] Altering and Dropping Tables
+- [ ] Transactions in MySQL *(Coming Soon)*
+- [ ] Constraints in MySQL *(Coming Soon)*
+- [ ] Primary Key & AUTO_INCREMENT in MySQL *(Coming Soon)*
+- [ ] ORDER BY and LIMIT in MySQL *(Coming Soon)*
+- [ ] Functions in MySQL *(Coming Soon)*
+- [ ] Logical Operators in MySQL *(Coming Soon)*
+- [ ] Foreign Keys in MySQL *(Coming Soon)*
+- [ ] ON DELETE in MySQL *(Coming Soon)*
+- [ ] JOINs in SQL *(Coming Soon)*
+- [ ] Indexes in MySQL *(Coming Soon)*
+- [ ] Views in SQL *(Coming Soon)*
+- [ ] Subqueries in SQL *(Coming Soon)*
+- [ ] GROUP BY in SQL *(Coming Soon)*
+- [ ] UNION in SQL *(Coming Soon)*
+- [ ] ROLLUP in SQL *(Coming Soon)*
+
+</details>
+
+---
+*Connect with me:*
+[LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url)
