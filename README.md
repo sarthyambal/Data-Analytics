@@ -55,12 +55,11 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Introduction to Data Analytics & Course Overview
 - [x] What Is Data Analytics?
 - [x] What Data Analysts typically do
-- [ ] The Data Analytics Workflow
-- [ ] Tools used by a Data Analyst
-- [ ] Mini Project: The Profitable Car Showroom
+- [x] The Data Analytics Workflow
+- [x] Tools used by a Data Analyst
 
 ### 📗 Section 2: Excel Mastery
-- [ ] Introduction to Excel
+- [x] Introduction to Excel
 - [ ] Excel - Visual Walkthrough
 - [ ] Workbooks and Sheets
 - [ ] Saving and Opening Workbooks
