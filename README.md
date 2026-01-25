@@ -60,13 +60,13 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 
 ### 📗 Section 2: Excel Mastery
 - [x] Introduction to Excel
-- [ ] Excel - Visual Walkthrough
-- [ ] Workbooks and Sheets
-- [ ] Saving and Opening Workbooks
-- [ ] Adding Data With Headers in Excel
-- [ ] Alignment, colors and font in Excel
-- [ ] Performing Calculations in Excel
-- [ ] Understanding Excel Cell Formats
+- [x] Excel - Visual Walkthrough
+- [x] Workbooks and Sheets
+- [x] Saving and Opening Workbooks
+- [x] Adding Data With Headers in Excel
+- [x] Alignment, colors and font in Excel
+- [x] Performing Calculations in Excel
+- [x] Understanding Excel Cell Formats
 - [ ] Absolute References in Excel
 - [ ] Order of Operations in Excel
 - [ ] Functions in Excel
