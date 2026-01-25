@@ -26,7 +26,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | :--- | :--- | :--- |
 | Jan 23 | Intro to Analytics | Learned the workflow: Collect -> Clean -> Analyze -> Interpret. |
 | Jan 24 | Excel Basics | Started the 'Profitable Car Showroom' mini project. |
-| ... | ... | ... |
+| Jan 25| Execl-Visual Walkthrough| Workbook and sheets | Saving and operation Workbook|
 
 ---
 
