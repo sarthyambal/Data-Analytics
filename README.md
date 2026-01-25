@@ -148,4 +148,4 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 
 ---
 *Connect with me:*
-[LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url)
+[LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url) | [Instagram](https://www.instagram.com/sarth_jain_007/)
