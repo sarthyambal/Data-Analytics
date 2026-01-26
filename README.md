@@ -52,13 +52,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 
 <br/>
 <br/>
-<div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" />
-</a>
-
-</div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react" />
