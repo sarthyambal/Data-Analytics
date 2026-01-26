@@ -30,6 +30,42 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 
 ---
 
+# 📊 GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthyambal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://leetcode.com/sarthyambal">
+  <img align="center" src="https://leetcard.jacoblin.cool/sarthyambal?theme=dark&font=EB%20Garamond&ext=heatmap" />
+</a>
+
+<br/>
+<br/>
+<div align="center">
+
+<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=sarthyambal&theme=highcontrast&hide_border=false" />
+</a>
+
+</div>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react" />
+</a>
+
+---
+
 <!---## 🛠️ Projects & Portfolio
 *Practical implementations from the course.*
 
