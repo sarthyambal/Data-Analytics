@@ -27,7 +27,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Jan 23 | Intro to Analytics | Learned the workflow: Collect -> Clean -> Analyze -> Interpret. |
 | Jan 24 | Excel Basics | Started the 'Profitable Car Showroom' mini project. |
 | Jan 25| Execl-Visual Walkthrough| Workbook and sheets | Saving and operation Workbook|
-
+| Jan 26 |Alignment, colors and font in Excel | Performing Calculations in Excel | Understanding Excel Cell Formats |
 ---
 
 # 📊 GitHub Stats
@@ -84,10 +84,10 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Alignment, colors and font in Excel
 - [x] Performing Calculations in Excel
 - [x] Understanding Excel Cell Formats
-- [ ] Absolute References in Excel
-- [ ] Order of Operations in Excel
-- [ ] Functions in Excel
-- [ ] Commonly Used Excel Functions
+- [x] Absolute References in Excel
+- [x] Order of Operations in Excel
+- [x] Functions in Excel
+- [x] Commonly Used Excel Functions
 - [ ] **Mini Project - Build an Expense Tracker**
 - [ ] Modifying an Excel Worksheet
 - [ ] Formatting data in an Excel Worksheet
