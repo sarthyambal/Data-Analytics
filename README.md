@@ -28,19 +28,20 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Jan 24 | Excel Basics | Started the 'Profitable Car Showroom' mini project. |
 | Jan 25| Execl-Visual Walkthrough| Workbook and sheets | Saving and operation Workbook|
 | Jan 26 |Alignment, colors and font in Excel | Performing Calculations in Excel | Understanding Excel Cell Formats |
----
-
-
+| Jan 27 |  Absolute References in Excel| Order of Operations in Excel | Functions in Excel |
 
 ---
 
-<!---## 🛠️ Projects & Portfolio
+
+
+---
+
+## 🛠️ Projects & Portfolio
 *Practical implementations from the course.*
 
 | Project Name | Tech Stack | Status | Link |
 | :--- | :--- | :--- | :--- |
-| 🏎️ **Profitable Car Showroom** | Excel | 🔴 Todo | [Link](#) |
-| 💰 **Expense Tracker** | Excel | 🔴 Todo | [Link](#) |
+| 💰 **Expense Tracker** | Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQDZQJly__9QSoY0KuvKaRxJAf0LysumD7zzGojWXWWl2lY?e=0VtUlL](#) |
 | 🎮 **Snake, Water, Gun** | Python | 🔴 Todo | [Link](#) |
 | 📂 **File Organizer** | Python (Automation) | 🔴 Todo | [Link](#) |
 | ⌨️ **Typing Speed Tester** | Python | 🔴 Todo | [Link](#) |
@@ -49,7 +50,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | 🔐 **Password Manager** | Python (Security) | 🔴 Todo | [Link](#) |
 
 ---
---->
+
 
 ## 📚 Course Syllabus Checklist
 <details>
