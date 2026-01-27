@@ -30,20 +30,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Jan 26 |Alignment, colors and font in Excel | Performing Calculations in Excel | Understanding Excel Cell Formats |
 ---
 
-# 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthyambal&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" />
-</a>
-
-
-
-
-
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthyambal&theme=react" />
-</a>
 
 ---
 
