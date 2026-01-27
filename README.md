@@ -76,9 +76,9 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Order of Operations in Excel
 - [x] Functions in Excel
 - [x] Commonly Used Excel Functions
-- [ ] **Mini Project - Build an Expense Tracker**
-- [ ] Modifying an Excel Worksheet
-- [ ] Formatting data in an Excel Worksheet
+- [x] **Mini Project - Build an Expense Tracker**
+- [x] Modifying an Excel Worksheet
+- [x] Formatting data in an Excel Worksheet
 - [ ] Conditional Formatting in Excel
 - [ ] Sorting and Filtering Data in Excel
 - [ ] Generating Random Data in Excel
