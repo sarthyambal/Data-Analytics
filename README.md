@@ -29,7 +29,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Jan 25| Execl-Visual Walkthrough| Workbook and sheets | Saving and operation Workbook|
 | Jan 26 |Alignment, colors and font in Excel | Performing Calculations in Excel | Understanding Excel Cell Formats |
 | Jan 27 |  Absolute References in Excel| Order of Operations in Excel | Functions in Excel |
-
+| Jan 28 | Commonly Used Excel Functions |  Modifying an Excel Worksheet  | Formatting data in an Excel Worksheet |
 ---
 
 
@@ -79,11 +79,11 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] **Mini Project - Build an Expense Tracker**
 - [x] Modifying an Excel Worksheet
 - [x] Formatting data in an Excel Worksheet
-- [ ] Conditional Formatting in Excel
-- [ ] Sorting and Filtering Data in Excel
-- [ ] Generating Random Data in Excel
-- [ ] Images and Shapes in Excel
-- [ ] Charts in Excel
+- [x] Conditional Formatting in Excel
+- [x] Sorting and Filtering Data in Excel
+- [x] Generating Random Data in Excel
+- [x] Images and Shapes in Excel
+- [x] Charts in Excel
 - [ ] Print Preview and Printing in Excel
 - [ ] Creating & Using Templates in Excel
 - [ ] Referencing Data Across Worksheets in Excel
