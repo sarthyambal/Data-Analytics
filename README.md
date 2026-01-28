@@ -9,12 +9,12 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 
 ## 🚧 Current Progress
 **Overall Completion:**
-▓▓░░░░░░░░ 20%
+▓▓░░░░░░░░ 30%
 
 | Component | Status |
 | :--- | :--- |
-| **Excel** | 🔄 In Progress |
-| **Python** | ⏳ Waiting |
+| **Excel** | ✅Done |
+| **Python** | 🔄 In Progress  |
 | **SQL** | ⏳ Waiting |
 
 ---
@@ -42,6 +42,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Project Name | Tech Stack | Status | Link |
 | :--- | :--- | :--- | :--- |
 | 💰 **Expense Tracker** | Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQDZQJly__9QSoY0KuvKaRxJAf0LysumD7zzGojWXWWl2lY?e=0VtUlL](#) |
+|  **Chart In Excel**    |  Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQCqxOUpsFHKSKLrYSlKRRg9AadNYnmMCPk_Vy9UH-z30CY?e=OqPazI](#) |
 | 🎮 **Snake, Water, Gun** | Python | 🔴 Todo | [Link](#) |
 | 📂 **File Organizer** | Python (Automation) | 🔴 Todo | [Link](#) |
 | ⌨️ **Typing Speed Tester** | Python | 🔴 Todo | [Link](#) |
