@@ -30,6 +30,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Jan 26 |Alignment, colors and font in Excel | Performing Calculations in Excel | Understanding Excel Cell Formats |
 | Jan 27 |  Absolute References in Excel| Order of Operations in Excel | Functions in Excel |
 | Jan 28 | Commonly Used Excel Functions |  Modifying an Excel Worksheet  | Formatting data in an Excel Worksheet |
+| Jan 29  | Modifying an Excel Worksheet | Formatting data in an Excel Worksheet | Conditional Formatting in Excel |
 ---
 
 
@@ -42,7 +43,9 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Project Name | Tech Stack | Status | Link |
 | :--- | :--- | :--- | :--- |
 | 💰 **Expense Tracker** | Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQDZQJly__9QSoY0KuvKaRxJAf0LysumD7zzGojWXWWl2lY?e=0VtUlL](#) |
-|  **Chart In Excel**    |  Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQCqxOUpsFHKSKLrYSlKRRg9AadNYnmMCPk_Vy9UH-z30CY?e=OqPazI](#) |
+| 📊 **Chart In Excel**    |  Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQCqxOUpsFHKSKLrYSlKRRg9AadNYnmMCPk_Vy9UH-z30CY?e=OqPazI](#) |
+| **Random Data In Excel** | Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQBZsTCdicY4RLS8qq2VGPUJAVljgyR3CKqld3cBVHx9o88?e=OPGzfi](#) |
+| **Creating Templets** |Excel| ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQCqxOUpsFHKSKLrYSlKRRg9AadNYnmMCPk_Vy9UH-z30CY?e=IkqJdg](#) |
 | 🎮 **Snake, Water, Gun** | Python | 🔴 Todo | [Link](#) |
 | 📂 **File Organizer** | Python (Automation) | 🔴 Todo | [Link](#) |
 | ⌨️ **Typing Speed Tester** | Python | 🔴 Todo | [Link](#) |
@@ -85,9 +88,9 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Generating Random Data in Excel
 - [x] Images and Shapes in Excel
 - [x] Charts in Excel
-- [ ] Print Preview and Printing in Excel
-- [ ] Creating & Using Templates in Excel
-- [ ] Referencing Data Across Worksheets in Excel
+- [x] Print Preview and Printing in Excel
+- [x] Creating & Using Templates in Excel
+- [x] Referencing Data Across Worksheets in Excel
 
 ### 🐍 Section 3: AI-Powered Python
 - [ ] Introduction to AI Powered Python
