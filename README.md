@@ -43,8 +43,9 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Project Name | Tech Stack | Status | Link |
 | :--- | :--- | :--- | :--- |
 | 💰 **Expense Tracker** | Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQDZQJly__9QSoY0KuvKaRxJAf0LysumD7zzGojWXWWl2lY?e=0VtUlL](#) |
-| 📊 *Chart In Excel*    |  Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQCqxOUpsFHKSKLrYSlKRRg9AadNYnmMCPk_Vy9UH-z30CY?e=OqPazI](#) |
-| *Random Data In Excel* | Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQBZsTCdicY4RLS8qq2VGPUJAVljgyR3CKqld3cBVHx9o88?e=OPGzfi](#) |
+| 📊 **Chart In Excel**    |  Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQCqxOUpsFHKSKLrYSlKRRg9AadNYnmMCPk_Vy9UH-z30CY?e=OqPazI](#) |
+| **Random Data In Excel** | Excel | ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQBZsTCdicY4RLS8qq2VGPUJAVljgyR3CKqld3cBVHx9o88?e=OPGzfi](#) |
+| **Creating Templets** |Excel| ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQCqxOUpsFHKSKLrYSlKRRg9AadNYnmMCPk_Vy9UH-z30CY?e=IkqJdg](#) |
 | 🎮 **Snake, Water, Gun** | Python | 🔴 Todo | [Link](#) |
 | 📂 **File Organizer** | Python (Automation) | 🔴 Todo | [Link](#) |
 | ⌨️ **Typing Speed Tester** | Python | 🔴 Todo | [Link](#) |
