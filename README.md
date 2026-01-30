@@ -100,7 +100,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Built-in vs External Packages in Python
 - [x] Variables and Data Types in Python
 - [x] Comments and Type Conversion in Python
-- [ ] Taking User Input in Python
+- [x] Taking User Input in Python
 - [ ] Operators in Python
 - [ ] Strings & String Methods in Python
 - [ ] f-Strings in Python
