@@ -95,8 +95,8 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 ### 🐍 Section 3: AI-Powered Python
 - [x] Introduction to AI Powered Python
 - [x] Installing Python & VS Code
-- [ ] Installing Python Packages using Pip
-- [ ] Built-in vs External Packages in Python
+- [x] Installing Python Packages using Pip
+- [x] Built-in vs External Packages in Python
 - [ ] Variables and Data Types in Python
 - [ ] Comments and Type Conversion in Python
 - [ ] Taking User Input in Python
