@@ -93,8 +93,8 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Referencing Data Across Worksheets in Excel
 
 ### 🐍 Section 3: AI-Powered Python
-- [ ] Introduction to AI Powered Python
-- [ ] Installing Python & VS Code
+- [x] Introduction to AI Powered Python
+- [x] Installing Python & VS Code
 - [ ] Installing Python Packages using Pip
 - [ ] Built-in vs External Packages in Python
 - [ ] Variables and Data Types in Python
