@@ -98,8 +98,8 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Installing Python & VS Code
 - [x] Installing Python Packages using Pip
 - [x] Built-in vs External Packages in Python
-- [ ] Variables and Data Types in Python
-- [ ] Comments and Type Conversion in Python
+- [x] Variables and Data Types in Python
+- [x] Comments and Type Conversion in Python
 - [ ] Taking User Input in Python
 - [ ] Operators in Python
 - [ ] Strings & String Methods in Python
