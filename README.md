@@ -33,6 +33,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Jan 29  | Modifying an Excel Worksheet | Formatting data in an Excel Worksheet | Conditional Formatting in Excel |
 | Jan 30 | Formatting data in an Excel Worksheet  | Conditional Formatting in Excel | Sorting and Filtering Data in Excel |
 | Jan 31 |  Generating Random Data in Excel | Images and Shapes in Excel | Charts in Excel |
+| Feb 01 | Print Preview and Printing in Excel | Creating & Using Templates in Excel | Referencing Data Across Worksheets in Excel |
 ---
 
 
