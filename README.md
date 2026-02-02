@@ -103,7 +103,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Variables and Data Types in Python
 - [x] Comments and Type Conversion in Python
 - [x] Taking User Input in Python
-- [ ] Operators in Python
+- [x] Operators in Python
 - [ ] Strings & String Methods in Python
 - [ ] f-Strings in Python
 - [ ] List & List Methods in Python
