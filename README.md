@@ -36,7 +36,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Feb 01 | Print Preview and Printing in Excel | Creating & Using Templates in Excel | Referencing Data Across Worksheets in Excel |
 | Feb 02 | Introduction to AI Powered Python | Installing Python & VS Code | Installing Python Packages using Pip |
 | Feb 03 | Built-in vs External Packages in Python | Variables and Data Types in Python | Comments and Type Conversion in Python |
-| Feb 04 | 
+| Feb 04 | Taking User Input in Python | Operators in Python | Strings & String Methods in Python |
 
 ---
 
