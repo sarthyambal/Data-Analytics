@@ -109,7 +109,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Taking User Input in Python
 - [x] Operators in Python
 - [x] Strings & String Methods in Python
-- [ ] f-Strings in Python
+- [x] f-Strings in Python
 - [ ] List & List Methods in Python
 - [ ] Tuple & Tuple Methods in Python
 - [ ] Sets in Python
