@@ -37,7 +37,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Feb 02 | Introduction to AI Powered Python | Installing Python & VS Code | Installing Python Packages using Pip |
 | Feb 03 | Built-in vs External Packages in Python | Variables and Data Types in Python | Comments and Type Conversion in Python |
 | Feb 04 | Taking User Input in Python | Operators in Python | Strings & String Methods in Python |
-
+| Feb 05 |  f-Strings in Python | List & List Methods in Python | Tuple & Tuple Methods in Python |
 ---
 
 
@@ -111,7 +111,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Strings & String Methods in Python
 - [x] f-Strings in Python
 - [x] List & List Methods in Python
-- [ ] Tuple & Tuple Methods in Python
+- [x] Tuple & Tuple Methods in Python
 - [ ] Sets in Python
 - [ ] Dictionaries in Python
 - [ ] Conditional Statements in Python
