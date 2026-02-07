@@ -38,6 +38,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Feb 03 | Built-in vs External Packages in Python | Variables and Data Types in Python | Comments and Type Conversion in Python |
 | Feb 04 | Taking User Input in Python | Operators in Python | Strings & String Methods in Python |
 | Feb 05 |  f-Strings in Python | List & List Methods in Python | Tuple & Tuple Methods in Python |
+| Feb 06 | Sets in Python | Dictionaries in Python | Conditional Statements in Python |
 ---
 
 
