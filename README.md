@@ -115,10 +115,10 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] List & List Methods in Python
 - [x] Tuple & Tuple Methods in Python
 - [x] Sets in Python
-- [ ] Dictionaries in Python
-- [ ] Conditional Statements in Python
-- [ ] Loops in Python
-- [ ] Functions in Python
+- [x] Dictionaries in Python
+- [x] Conditional Statements in Python
+- [x] Loops in Python
+- [x] Functions in Python
 - [ ] Local vs Global Variables in Python
 - [ ] File Handling in Python
 - [ ] Error Handling in Python
