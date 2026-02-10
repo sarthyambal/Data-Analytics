@@ -9,7 +9,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 
 ## 🚧 Current Progress
 **Overall Completion:**
-▓▓░░░░░░░░ 45%
+▓▓░░░░░░░░ 48%
 
 | Component | Status |
 | :--- | :--- |
@@ -40,6 +40,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Feb 05 |  f-Strings in Python | List & List Methods in Python | Tuple & Tuple Methods in Python |
 | Feb 06 | Sets in Python | Dictionaries in Python | Conditional Statements in Python |
 | Fed 07 |  Loops in Python | Functions in Python | Local vs Global Variables in Python |
+| Feb 08 |  Functions in Python | Local vs Global Variables in Python | File Handling in Python |
 ---
 
 
