@@ -119,9 +119,9 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Conditional Statements in Python
 - [x] Loops in Python
 - [x] Functions in Python
-- [ ] Local vs Global Variables in Python
-- [ ] File Handling in Python
-- [ ] Error Handling in Python
+- [x] Local vs Global Variables in Python
+- [x] File Handling in Python
+- [x] Error Handling in Python
 - [ ] **Mini Project 1: Lets build Snake, Water & Gun**
 
 ### 🤖 Section 4: AI Assisted Development
