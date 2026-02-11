@@ -123,7 +123,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Local vs Global Variables in Python
 - [x] File Handling in Python
 - [x] Error Handling in Python
-- [ ] **Mini Project 1: Lets build Snake, Water & Gun**
+- [x] **Mini Project 1: Lets build Snake, Water & Gun**
 
 ### 🤖 Section 4: AI Assisted Development
 - [ ] AI Assisted Software Development - Introduction
