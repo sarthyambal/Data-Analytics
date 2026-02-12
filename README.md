@@ -42,6 +42,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Fed 07 |  Loops in Python | Functions in Python | Local vs Global Variables in Python |
 | Feb 08 |  Functions in Python | Local vs Global Variables in Python | File Handling in Python |
 | Feb 09 |   Error Handling in Python | **Mini Project 1: Lets build Snake, Water & Gun**|
+| Feb 10 | 
 ---
 
 
@@ -127,9 +128,9 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] **Mini Project 1: Lets build Snake, Water & Gun**
 
 ### 🤖 Section 4: AI Assisted Development
-- [ ] AI Assisted Software Development - Introduction
-- [ ] ChatGPT Setup and Tips
-- [ ] Installing & Using GitHub Copilot
+- [x] AI Assisted Software Development - Introduction
+- [x] ChatGPT Setup and Tips
+- [x] Installing & Using GitHub Copilot
 - [ ] **Mini Project 2: File Organizer in Python**
 - [ ] **Mini Project 3: Typing Speed Tester**
 - [ ] **Mini Project 4: Quiz App in Python**
