@@ -131,7 +131,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] AI Assisted Software Development - Introduction
 - [x] ChatGPT Setup and Tips
 - [x] Installing & Using GitHub Copilot
-- [ ] **Mini Project 2: File Organizer in Python**
+- [x] **Mini Project 2: File Organizer in Python**
 - [ ] **Mini Project 3: Typing Speed Tester**
 - [ ] **Mini Project 4: Quiz App in Python**
 - [ ] **Mini Project 5: PDF Merger GUI in Python**
