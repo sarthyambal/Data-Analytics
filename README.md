@@ -14,8 +14,8 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Component | Status |
 | :--- | :--- |
 | **Excel** | ✅Done |
-| **Python** | 🔄 In Progress  |
-| **SQL** | ⏳ Waiting |
+| **Python** | ✅Done |
+| **SQL** |  🔄 In Progress  |
 
 ---
 
