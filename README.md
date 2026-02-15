@@ -43,6 +43,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Feb 08 |  Functions in Python | Local vs Global Variables in Python | File Handling in Python |
 | Feb 09 |   Error Handling in Python | **Mini Project 1: Lets build Snake, Water & Gun**|
 | Feb 10 | 
+| Feb 11 |
 ---
 
 
