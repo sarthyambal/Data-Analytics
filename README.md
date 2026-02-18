@@ -9,7 +9,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 
 ## 🚧 Current Progress
 **Overall Completion:**
-▓▓░░ 50%
+▓▓░░ 51%
 
 | Component | Status |
 | :--- | :--- |
