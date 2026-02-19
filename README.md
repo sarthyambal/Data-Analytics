@@ -134,7 +134,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Installing & Using GitHub Copilot
 - [x] **Mini Project 2: File Organizer in Python**
 - [x] **Mini Project 3: Typing Speed Tester**
-- [ ] **Mini Project 4: Quiz App in Python**
+- [x] **Mini Project 4: Quiz App in Python**
 - [ ] **Mini Project 5: PDF Merger GUI in Python**
 - [ ] **Mini Project 6: Water Drinking Reminder with Notifications**
 - [ ] **Mini Project 7: Build a Password Manager Using Python**
