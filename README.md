@@ -43,7 +43,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | Feb 08 |  Functions in Python | Local vs Global Variables in Python | File Handling in Python |
 | Feb 09 |   Error Handling in Python | **Mini Project 1: Lets build Snake, Water & Gun**|
 | Feb 10 | 
-| Feb 11 |
+| Feb 11 | 
 ---
 
 
@@ -135,9 +135,9 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] **Mini Project 2: File Organizer in Python**
 - [x] **Mini Project 3: Typing Speed Tester**
 - [x] **Mini Project 4: Quiz App in Python**
-- [ ] **Mini Project 5: PDF Merger GUI in Python**
-- [ ] **Mini Project 6: Water Drinking Reminder with Notifications**
-- [ ] **Mini Project 7: Build a Password Manager Using Python**
+- [x] **Mini Project 5: PDF Merger GUI in Python**
+- [x] **Mini Project 6: Water Drinking Reminder with Notifications**
+- [x] **Mini Project 7: Build a Password Manager Using Python**
 
 ### 🗄️ Section 5: Databases & SQL
 - [ ] Introduction to Databases & SQL
