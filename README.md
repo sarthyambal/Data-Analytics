@@ -140,9 +140,9 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] **Mini Project 7: Build a Password Manager Using Python**
 
 ### 🗄️ Section 5: Databases & SQL
-- [ ] Introduction to Databases & SQL
-- [ ] Relational vs Non Relational Databases
-- [ ] Installing MySQL
+- [x] Introduction to Databases & SQL
+- [x] Relational vs Non Relational Databases
+- [x] Installing MySQL
 - [ ] Writing Our First SQL Query
 - [ ] MySQL Starter Script
 - [ ] DataTypes & Creating a Table in MySQL
