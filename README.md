@@ -143,7 +143,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Introduction to Databases & SQL
 - [x] Relational vs Non Relational Databases
 - [x] Installing MySQL
-- [ ] Writing Our First SQL Query
+- [x] Writing Our First SQL Query
 - [ ] MySQL Starter Script
 - [ ] DataTypes & Creating a Table in MySQL
 - [ ] Inserting Rows in a Table
