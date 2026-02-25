@@ -61,7 +61,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | **Creating Templets** |Excel| ✅ Done | [https://1drv.ms/x/c/7bc86012b739b49c/IQCqxOUpsFHKSKLrYSlKRRg9AadNYnmMCPk_Vy9UH-z30CY?e=IkqJdg](#) |
 | 🎮 **Snake, Water, Gun** | Python | ✅ Done | 
 | 📂 **File Organizer** | Python (Automation) | ✅Done |
-| ⌨️ **Typing Speed Tester** | Python | 🔴 Todo | [Link](#) |
+| ⌨️ **Typing Speed Tester** | Python | ✅Done |
 | 🧩 **PDF Merger GUI** | Python (Tkinter) | 🔴 Todo | [Link](#) |
 | 💧 **Water Reminder** | Python (Notifications) | 🔴 Todo | [Link](#) |
 | 🔐 **Password Manager** | Python (Security) | 🔴 Todo | [Link](#) |
