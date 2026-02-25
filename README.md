@@ -62,7 +62,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | 🎮 **Snake, Water, Gun** | Python | ✅ Done | 
 | 📂 **File Organizer** | Python (Automation) | ✅Done |
 | ⌨️ **Typing Speed Tester** | Python | ✅Done |
-| 🧩 **PDF Merger GUI** | Python (Tkinter) | 🔴 Todo | [Link](#) |
+| 🧩 **PDF Merger GUI** | Python (Tkinter) | ✅Done| 
 | 💧 **Water Reminder** | Python (Notifications) | 🔴 Todo | [Link](#) |
 | 🔐 **Password Manager** | Python (Security) | 🔴 Todo | [Link](#) |
 
