@@ -1,4 +1,4 @@
-# 📊 My Data Analytics Journey
+RRRRRR# 📊 My Data Analytics Journey
 > *Documenting my path to becoming a Data Analyst with the Ultimate Job-Ready AI-Powered Course.*
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
@@ -144,7 +144,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Relational vs Non Relational Databases
 - [x] Installing MySQL
 - [x] Writing Our First SQL Query
-- [ ] MySQL Starter Script
+- [x] MySQL Starter Script
 - [ ] DataTypes & Creating a Table in MySQL
 - [ ] Inserting Rows in a Table
 - [ ] Selecting Data from the orders Table
