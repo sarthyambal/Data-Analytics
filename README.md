@@ -63,7 +63,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | 📂 **File Organizer** | Python (Automation) | ✅Done |
 | ⌨️ **Typing Speed Tester** | Python | ✅Done |
 | 🧩 **PDF Merger GUI** | Python (Tkinter) | ✅Done| 
-| 💧 **Water Reminder** | Python (Notifications) | 🔴 Todo | [Link](#) |
+| 💧 **Water Reminder** | Python (Notifications) | ✅Done | 
 | 🔐 **Password Manager** | Python (Security) | 🔴 Todo | [Link](#) |
 
 ---
