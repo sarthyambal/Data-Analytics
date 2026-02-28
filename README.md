@@ -1,4 +1,4 @@
-RRRRRR# 📊 My Data Analytics Journey
+# 📊 My Data Analytics Journey
 > *Documenting my path to becoming a Data Analyst with the Ultimate Job-Ready AI-Powered Course.*
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
@@ -64,7 +64,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 | ⌨️ **Typing Speed Tester** | Python | ✅Done |
 | 🧩 **PDF Merger GUI** | Python (Tkinter) | ✅Done| 
 | 💧 **Water Reminder** | Python (Notifications) | ✅Done | 
-| 🔐 **Password Manager** | Python (Security) | 🔴 Todo | [Link](#) |
+| 🔐 **Password Manager** | Python (Security) | ✅Done |
 
 ---
 
