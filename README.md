@@ -149,7 +149,7 @@ To master the "Big Three" of analytics (Excel, Python, SQL) and build a portfoli
 - [x] Inserting Rows in a Table
 - [x] Selecting Data from the orders Table
 - [x] Updating & Deleting Data in a Table
-- [ ] Altering and Dropping Tables
+- [x] Altering and Dropping Tables
 - [ ] Transactions in MySQL *(Coming Soon)*
 - [ ] Constraints in MySQL *(Coming Soon)*
 - [ ] Primary Key & AUTO_INCREMENT in MySQL *(Coming Soon)*
