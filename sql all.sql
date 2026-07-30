@@ -1,0 +1,2 @@
+USE ECOM ;
+select *FROM ORDERS;
